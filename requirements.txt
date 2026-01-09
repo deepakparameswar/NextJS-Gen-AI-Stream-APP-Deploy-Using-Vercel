@@ -3,3 +3,4 @@ uvicorn
 langchain-groq==1.0.0
 langchain==1.0.5
 groq
+fastapi-clerk-auth
